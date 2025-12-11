@@ -1,0 +1,103 @@
+﻿nome;banco;agencia;conta;saldo;movimentacao;valor
+Miguel Souza;Santander;7688;75478-8;14341.22;transferencia;1250.75
+Gabriel Costa;Banco do Brasil;2626;81239-1;19582.45;deposito;2500.00
+Vitória Santos;Bradesco;1347;15987-3;5430.10;saque;200.00
+Davi Martins;Caixa Econômica Federal;881;46552-0;9875.50;deposito;1500.50
+Lucas Lima;Itaú Unibanco;4567;98765-4;21500.75;transferencia;3200.00
+Mariana Ferreira;Nubank;1;1234567-8;8750.00;saque;550.00
+Rafael Almeida;Banco Inter;1;7654321-0;12345.90;deposito;500.00
+Júlia Barbosa;Sicoob;3001;89123-5;4200.25;transferencia;780.30
+Bruno Ribeiro;BTG Pactual;2002;54321-9;45800.00;deposito;10000.00
+Leonardo Melo;Banco Safra;77;67890-1;33210.60;saque;1500.00
+Helena Rodrigues;Caixa Econômica Federal;2143;11223-3;12987.10;transferencia;450.00
+Arthur Oliveira;Bradesco;5543;99887-7;7654.32;deposito;1200.00
+Alice Silva;Itaú Unibanco;9876;54321-0;18010.45;saque;300.50
+Theo Pereira;Banco do Brasil;3321;67890-1;23456.78;deposito;2100.00
+Laura Gomes;Santander;1122;33445-5;6789.12;transferencia;990.00
+Isabella Carvalho;Nubank;1;9876543-2;11223.34;saque;800.00
+Gael Nunes;Banco Inter;1;5566778-8;7890.12;deposito;350.75
+Enzo Mendes;Sicoob;4002;88990-0;3123.45;transferencia;500.00
+Sofia Costa;BTG Pactual;1001;22334-4;50000.00;deposito;5000.00
+Heitor Lopes;Banco Safra;55;11223-3;28901.23;saque;2000.00
+Valentina Lima;Caixa Econômica Federal;4321;98765-4;15432.10;deposito;1800.00
+João Santos;Bradesco;8765;43210-9;8901.23;transferencia;1234.56
+Pedro Alves;Itaú Unibanco;2345;67890-1;20345.67;saque;100.00
+Camila Rodrigues;Banco do Brasil;6543;21098-7;17654.32;deposito;3000.00
+Gustavo Ferreira;Santander;8901;23456-7;10123.45;saque;450.00
+Manuela Martins;Nubank;1;8765432-1;13234.56;transferencia;2000.00
+Beatriz Ribeiro;Banco Inter;1;3456789-0;9012.34;deposito;700.00
+Felipe Barbosa;Sicoob;5003;77889-9;5678.90;saque;50.00
+Eduardo Melo;BTG Pactual;3003;44556-6;65432.10;deposito;8500.00
+Larissa Almeida;Banco Safra;88;99001-1;41234.56;transferencia;4100.00
+Miguel Oliveira;Caixa Econômica Federal;1234;56789-0;11111.11;saque;110.00
+Gabriel Silva;Bradesco;5678;12345-6;8888.88;deposito;880.00
+Vitória Pereira;Itaú Unibanco;9012;34567-8;22222.22;transferencia;222.22
+Davi Gomes;Banco do Brasil;3456;78901-2;16666.66;saque;666.00
+Lucas Costa;Santander;7890;12345-6;12321.23;deposito;123.00
+Mariana Santos;Nubank;1;2345678-9;14444.44;transferencia;1444.00
+Rafael Souza;Banco Inter;1;8765432-1;10101.01;saque;101.00
+Júlia Lima;Sicoob;6004;55443-3;6060.60;deposito;606.00
+Bruno Rodrigues;BTG Pactual;4004;33221-1;77777.77;transferencia;7777.00
+Leonardo Ferreira;Banco Safra;99;88776-6;55555.55;saque;5555.00
+Helena Alves;Caixa Econômica Federal;9876;54321-0;13131.31;deposito;1313.00
+Arthur Martins;Bradesco;5432;10987-6;9999.99;transferencia;999.00
+Alice Ribeiro;Itaú Unibanco;1098;76543-2;24680.24;saque;246.00
+Theo Barbosa;Banco do Brasil;7654;32109-8;19876.54;deposito;1987.00
+Laura Melo;Santander;3210;98765-4;11223.34;transferencia;1122.00
+Isabella Almeida;Nubank;1;4567890-1;15555.55;saque;1555.00
+Gael Carvalho;Banco Inter;1;6543210-9;8888.88;deposito;888.00
+Enzo Nunes;Sicoob;7005;22113-3;4444.44;transferencia;444.00
+Sofia Mendes;BTG Pactual;5005;11002-2;80000.00;saque;8000.00
+Heitor Lopes;Banco Safra;11;77665-5;60000.00;deposito;6000.00
+Valentina Costa;Caixa Econômica Federal;4433;22110-0;14000.00;transferencia;1400.00
+João Oliveira;Bradesco;6655;44332-2;9500.00;saque;950.00
+Pedro Silva;Itaú Unibanco;8877;66554-4;21000.00;deposito;2100.00
+Camila Pereira;Banco do Brasil;2211;88776-6;18000.00;transferencia;1800.00
+Gustavo Gomes;Santander;4433;00998-8;10500.00;saque;1050.00
+Manuela Santos;Nubank;1;66554-4;13800.00;deposito;1380.00
+Beatriz Souza;Banco Inter;1;22113-3;9200.00;transferencia;920.00
+Felipe Lima;Sicoob;8006;11224-4;5800.00;saque;580.00
+Eduardo Rodrigues;BTG Pactual;6006;99887-7;70000.00;deposito;7000.00
+Larissa Ferreira;Banco Safra;22;55443-3;45000.00;transferencia;4500.00
+Miguel Alves;Caixa Econômica Federal;1122;77665-5;12000.00;saque;1200.00
+Gabriel Martins;Bradesco;3344;99887-7;8000.00;deposito;800.00
+Vitória Ribeiro;Itaú Unibanco;5566;11223-3;23000.00;transferencia;2300.00
+Davi Barbosa;Banco do Brasil;7788;33445-5;17000.00;saque;1700.00
+Lucas Melo;Santander;9900;55667-7;11500.00;deposito;1150.00
+Mariana Almeida;Nubank;1;88776-6;14500.00;transferencia;1450.00
+Rafael Carvalho;Banco Inter;1;44332-2;9800.00;saque;980.00
+Júlia Nunes;Sicoob;9007;00998-8;6200.00;deposito;620.00
+Bruno Mendes;BTG Pactual;7007;66554-4;75000.00;transferencia;7500.00
+Leonardo Lopes;Banco Safra;33;22113-3;50000.00;saque;5000.00
+Helena Costa;Caixa Econômica Federal;6655;44332-2;13000.00;deposito;1300.00
+Arthur Oliveira;Bradesco;8877;66554-4;8500.00;transferencia;850.00
+Alice Silva;Itaú Unibanco;99;88776-6;22000.00;saque;2200.00
+Theo Pereira;Banco do Brasil;2211;00998-8;16000.00;deposito;1600.00
+Laura Gomes;Santander;4433;22113-3;11000.00;transferencia;1100.00
+Isabella Santos;Nubank;1;44332-2;14000.00;saque;1400.00
+Gael Souza;Banco Inter;1;66554-4;9600.00;deposito;960.00
+Enzo Lima;Sicoob;1008;88776-6;6000.00;transferencia;600.00
+Sofia Rodrigues;BTG Pactual;8008;00998-8;72000.00;saque;7200.00
+Heitor Ferreira;Banco Safra;44;44332-2;48000.00;deposito;4800.00
+Valentina Alves;Caixa Econômica Federal;2233;66554-4;12500.00;transferencia;1250.00
+João Martins;Bradesco;4455;88776-6;7500.00;saque;750.00
+Pedro Ribeiro;Itaú Unibanco;6677;00998-8;24000.00;deposito;2400.00
+Camila Barbosa;Banco do Brasil;8899;22113-3;15000.00;transferencia;1500.00
+Gustavo Melo;Santander;11;44332-2;10000.00;saque;1000.00
+Manuela Almeida;Nubank;1;66554-4;13500.00;deposito;1350.00
+Beatriz Carvalho;Banco Inter;1;88776-6;9400.00;transferencia;940.00
+Felipe Nunes;Sicoob;2009;00998-8;5600.00;saque;560.00
+Eduardo Mendes;BTG Pactual;9009;22113-3;68000.00;deposito;6800.00
+Larissa Lopes;Banco Safra;55;44332-2;43000.00;transferencia;4300.00
+Miguel Costa;Caixa Econômica Federal;3344;66554-4;11500.00;saque;1150.00
+Gabriel Oliveira;Bradesco;5566;88776-6;7000.00;deposito;700.00
+Vitória Silva;Itaú Unibanco;7788;00998-8;25000.00;transferencia;2500.00
+Davi Pereira;Banco do Brasil;9900;22113-3;14000.00;saque;1400.00
+Lucas Gomes;Santander;1122;44332-2;9500.00;deposito;950.00
+Mariana Santos;Nubank;1;66554-4;13000.00;transferencia;1300.00
+Rafael Souza;Banco Inter;1;88776-6;9200.00;saque;920.00
+Júlia Lima;Sicoob;3001;12345-6;5400.00;deposito;540.00
+saque;Miguel Souza;-;100.0
+transferencia;Miguel Souza;Valentina Lima;100.0
+deposito;-;Miguel Souza;100.0
+saque;Miguel Souza;-;100.0
